@@ -3,6 +3,9 @@ You’ll be required to set up a Gulp build process to prepare the website for d
 
 @Esteban-Towerz -- @milestake :love_letter: :+1:
 
+<img width="1164" alt="screen shot 2017-10-01 at 6 33 07 pm" src="https://user-images.githubusercontent.com/25851867/31060333-5cf32866-a6d7-11e7-9004-19c5791c8ea6.png">
+
+
 ## User Stories:
 ### to get the requested Minimum Viable Product:
 
